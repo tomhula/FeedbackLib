@@ -1,4 +1,4 @@
-[![Jitpack](https://jitpack.io/v/Tomasan7/FeedbackLib.svg)](https://jitpack.io/#Tomasan7/FeedbackLib)
+[![Jitpack](https://jitpack.io/v/tomhula/FeedbackLib.svg)](https://jitpack.io/#tomhula/FeedbackLib)
 
 # FeedbackLib
 
@@ -22,7 +22,7 @@ FeedbackLib is a library to help developers make more configurable messages and 
 <dependencies>
     ...
     <dependency>
-        <groupId>com.github.Tomasan7.FeedbackLib</groupId>
+        <groupId>com.github.tomhula.FeedbackLib</groupId>
         <artifactId>feedbacklib</artifactId>
         <version>VERSION</version>
     </dependency>
@@ -39,7 +39,7 @@ repositories {
 
 dependencies {
     ...
-    implementation 'com.github.Tomasan7.FeedbackLib:feedbacklib:<VERSION>'
+    implementation 'com.github.tomhula.FeedbackLib:feedbacklib:<VERSION>'
 }
 ```
 
@@ -53,7 +53,7 @@ repositories {
 
 dependencies {
     ...
-    implementation("com.github.Tomasan7.FeedbackLib:feedbacklib:<VERSION>")
+    implementation("com.github.tomhula.FeedbackLib:feedbacklib:<VERSION>")
 }
 ```
 
